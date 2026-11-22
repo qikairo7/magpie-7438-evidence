@@ -1,0 +1,224 @@
+lines: 392310  parsed: 392302  deletes: 92972  creates: 276338  hits: 2750
+=== deletes per minute:
+20:02  19380
+20:03  71139
+20:04  307
+20:05  312
+20:06  287
+20:07  173
+20:08  615
+20:09  185
+20:10  160
+20:11  126
+20:12  125
+20:13  129
+20:14  34
+=== deletes grouped by parent dir (top 30):
+  11009  locales
+   6244  tests
+   3527  core
+   2032  classic
+   1861  openssl
+   1651  mini
+   1442  v3
+   1423  locale
+   1358  helpers
+   1052  types
+    934  lib
+    906  client
+    536  v4
+    531  prov
+    496  zod
+    411  src
+    351  benchmarks
+    315  Images
+    301  dist
+    296  internal
+    296  include
+    256  sha512
+    256  index-v5
+    241  ?000000000000000000050000000788bd
+    236  descriptions
+    234  beta
+    228  v4-mini
+    225  utils
+    214  v2
+    206  ?0000000000000000000a00000002d6c5
+=== creates grouped by parent dir (top 15):
+  29988  __pycache__
+  15616  LC_MESSAGES
+  14044  Icons
+   8478  cmd
+   6574  res
+   5233  ui
+   4884  lib
+   4766  references
+   4178  32
+   2976  help.idxl
+   2458  bin
+   2318  America
+   2232  src
+   2136  scripts
+   2092  help
+=== pattern hits (first 80):
+2026/11/21 20:02:52  []  ?0000000000000000000500000002c8da\session.db-wal
+2026/11/21 20:02:52  []  ?0000000000000000000500000002c8da\session.db
+2026/11/21 20:02:52  []  ?000000000000000000010000000019f1\Microsoft-Windows-WebAuthN%4Operational.evtx
+2026/11/21 20:02:55  []  ?0000000000000000000500000002c8da\session.db-wal
+2026/11/21 20:03:05  []  ?0000000000000000000500000002c8da\session.db
+2026/11/21 20:03:05  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:03:05  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:03:05  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:03:06  []  ?00000000000000000004000000089c2e\SessionRestoreLog
+2026/11/21 20:03:06  []  ?00000000000000000004000000089c2e\SessionRestoreLog
+2026/11/21 20:03:08  [DEL]  dist\auth-Anm-lwWi.d.mts
+2026/11/21 20:03:08  [DEL]  dist\auth-Anm-lwWi.d.mts.map
+2026/11/21 20:03:08  [DEL]  dist\auth-BNDyLTqp.mjs
+2026/11/21 20:03:08  [DEL]  dist\auth-BNDyLTqp.mjs.map
+2026/11/21 20:03:08  [DEL]  dist\auth-D1CeV_Jr.cjs
+2026/11/21 20:03:08  [DEL]  dist\auth-D1CeV_Jr.cjs.map
+2026/11/21 20:03:08  [DEL]  dist\auth-V9XJSCfa.d.cts
+2026/11/21 20:03:08  [DEL]  dist\auth-V9XJSCfa.d.cts.map
+2026/11/21 20:03:08  [DEL]  helpers\Http2Sessions.js
+2026/11/21 20:03:08  [DEL]  dist\www-authenticate.js
+2026/11/21 20:03:08  [DEL]  adapter\bun
+2026/11/21 20:03:08  [DEL]  adapter\bun
+2026/11/21 20:03:08  [DEL]  middleware\basic-auth
+2026/11/21 20:03:08  [DEL]  middleware\bearer-auth
+2026/11/21 20:03:08  [DEL]  utils\basic-auth.js
+2026/11/21 20:03:08  [DEL]  middleware\basic-auth
+2026/11/21 20:03:08  [DEL]  middleware\bearer-auth
+2026/11/21 20:03:08  [DEL]  adapter\bun
+2026/11/21 20:03:08  [DEL]  middleware\basic-auth
+2026/11/21 20:03:08  [DEL]  middleware\bearer-auth
+2026/11/21 20:03:08  [DEL]  utils\basic-auth.d.ts
+2026/11/21 20:03:08  [DEL]  utils\basic-auth.js
+2026/11/21 20:03:08  [DEL]  .bin\dsh-ops
+2026/11/21 20:03:08  [DEL]  .bin\dsh-ops.cmd
+2026/11/21 20:03:08  [DEL]  .bin\dsh-ops.ps1
+2026/11/21 20:03:08  [DEL]  bin\dsh-ops.mjs
+2026/11/21 20:03:08  [DEL]  readme\dsh-ops-header.svg
+2026/11/21 20:03:08  [DEL]  docs\DSH????????????.md
+2026/11/21 20:03:08  [DEL]  docs\DSH??????????????.md
+2026/11/21 20:03:08  [DEL]  adapter\dsh
+2026/11/21 20:03:08  [DEL]  tui\dsh-plugin.json
+2026/11/21 20:03:09  [DEL]  shells\session-execution.d.ts
+2026/11/21 20:03:09  [DEL]  shells\session-execution.js
+2026/11/21 20:03:09  [DEL]  lib\authority-paths.d.ts
+2026/11/21 20:03:09  [DEL]  lib\authority-paths.js
+2026/11/21 20:03:09  [DEL]  lib\credential-policy.d.ts
+2026/11/21 20:03:09  [DEL]  lib\credential-policy.js
+2026/11/21 20:03:09  [DEL]  lib\session-shells.d.ts
+2026/11/21 20:03:09  [DEL]  lib\session-shells.js
+2026/11/21 20:03:09  [DEL]  lib\session-temp.d.ts
+2026/11/21 20:03:09  [DEL]  lib\session-temp.js
+2026/11/21 20:03:09  [DEL]  darwin-arm64\dsh-ops-worker
+2026/11/21 20:03:09  [DEL]  darwin-x64\dsh-ops-worker
+2026/11/21 20:03:09  [DEL]  linux-x64\dsh-ops-worker
+2026/11/21 20:03:09  [DEL]  git-core\git-credential-wincred.exe
+2026/11/21 20:03:09  [DEL]  win32-x64\dsh-ops-worker.exe
+2026/11/21 20:03:09  [DEL]  dsh-ops\dsh-plugin.json
+2026/11/21 20:03:09  [DEL]  node_modules\dsh-ops
+2026/11/21 20:03:09  [DEL]  .bin\dsh
+2026/11/21 20:03:09  [DEL]  .bin\dsh.cmd
+2026/11/21 20:03:09  [DEL]  .bin\dsh.ps1
+2026/11/21 20:03:09  [DEL]  dist\server-session-sse.test.d.ts
+2026/11/21 20:03:09  [DEL]  dist\server-session-sse.test.js
+2026/11/21 20:03:09  [DEL]  dist\server-session-sse.test.js.map
+2026/11/21 20:03:09  [DEL]  core\credentials.d.mts
+2026/11/21 20:03:09  [DEL]  core\credentials.d.mts.map
+2026/11/21 20:03:09  [DEL]  core\credentials.d.ts
+2026/11/21 20:03:09  [DEL]  core\credentials.d.ts.map
+2026/11/21 20:03:09  [DEL]  core\credentials.js
+2026/11/21 20:03:09  [DEL]  core\credentials.js.map
+2026/11/21 20:03:09  [DEL]  core\credentials.mjs
+2026/11/21 20:03:09  [DEL]  core\credentials.mjs.map
+2026/11/21 20:03:09  [DEL]  credentials\credential-chain.d.mts
+2026/11/21 20:03:09  [DEL]  credentials\credential-chain.d.mts.map
+2026/11/21 20:03:09  [DEL]  credentials\credential-chain.d.ts
+2026/11/21 20:03:09  [DEL]  credentials\credential-chain.d.ts.map
+2026/11/21 20:03:09  [DEL]  credentials\credential-chain.js
+2026/11/21 20:03:09  [DEL]  credentials\credential-chain.js.map
+2026/11/21 20:03:09  [DEL]  credentials\credential-chain.mjs
+2026/11/21 20:03:09  [DEL]  credentials\credential-chain.mjs.map
+=== pattern hits (last 80):
+2026/11/21 20:13:08  [NEW]  requests\sessions.py
+2026/11/21 20:13:08  [NEW]  requests\sessions.py
+2026/11/21 20:13:09  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:13:09  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:13:09  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:13:26  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:13:26  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:13:26  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:13:35  [NEW]  ScriptForge\SF_Session.xba
+2026/11/21 20:13:35  [NEW]  ScriptForge\SF_Session.xba
+2026/11/21 20:13:35  [NEW]  ScriptForge\SF_Session.xba
+2026/11/21 20:13:35  [NEW]  ScriptForge\SF_Session.xba
+2026/11/21 20:13:37  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:13:37  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:13:37  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:13:37  [NEW]  ui\authentificationpage.ui
+2026/11/21 20:13:37  [NEW]  ui\authentificationpage.ui
+2026/11/21 20:13:37  [NEW]  ui\authentificationpage.ui
+2026/11/21 20:13:37  [NEW]  ui\authentificationpage.ui
+2026/11/21 20:13:37  [NEW]  ui\dbwizspreadsheetpage.ui
+2026/11/21 20:13:37  [NEW]  ui\dbwizspreadsheetpage.ui
+2026/11/21 20:13:37  [NEW]  ui\dbwizspreadsheetpage.ui
+2026/11/21 20:13:37  [NEW]  ui\dbwizspreadsheetpage.ui
+2026/11/21 20:13:42  [NEW]  ui\authenticationsettingsdialog.ui
+2026/11/21 20:13:42  [NEW]  ui\authenticationsettingsdialog.ui
+2026/11/21 20:13:42  [NEW]  ui\authenticationsettingsdialog.ui
+2026/11/21 20:13:42  [NEW]  ui\authenticationsettingsdialog.ui
+2026/11/21 20:13:42  [NEW]  ui\createauthorentry.ui
+2026/11/21 20:13:42  [NEW]  ui\createauthorentry.ui
+2026/11/21 20:13:42  [NEW]  ui\createauthorentry.ui
+2026/11/21 20:13:42  [NEW]  ui\createauthorentry.ui
+2026/11/21 20:13:44  [NEW]  ui\authfallback.ui
+2026/11/21 20:13:44  [NEW]  ui\authfallback.ui
+2026/11/21 20:13:44  [NEW]  ui\authfallback.ui
+2026/11/21 20:13:44  [NEW]  ui\authfallback.ui
+2026/11/21 20:13:44  [NEW]  ui\unknownauthdialog.ui
+2026/11/21 20:13:44  [NEW]  ui\unknownauthdialog.ui
+2026/11/21 20:13:44  [NEW]  ui\unknownauthdialog.ui
+2026/11/21 20:13:44  [NEW]  ui\unknownauthdialog.ui
+2026/11/21 20:13:44  [NEW]  dict-ar\AUTHORS.txt
+2026/11/21 20:13:44  [NEW]  dict-ar\AUTHORS.txt
+2026/11/21 20:13:44  [NEW]  dict-ar\AUTHORS.txt
+2026/11/21 20:13:44  [NEW]  dict-ar\AUTHORS.txt
+2026/11/21 20:13:49  [NEW]  dict-lt\AUTHORS
+2026/11/21 20:13:49  [NEW]  dict-lt\AUTHORS
+2026/11/21 20:13:49  [NEW]  dict-lt\AUTHORS
+2026/11/21 20:13:49  [NEW]  dict-lt\AUTHORS
+2026/11/21 20:13:49  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:13:49  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:13:49  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:14:02  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:14:02  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:14:02  []  ?0000000000000000000500000002c8da\session.db-incremental.material
+2026/11/21 20:14:06  []  sentry\session.json
+2026/11/21 20:14:06  []  sentry\session.json
+2026/11/21 20:14:06  []  sentry\session.json
+2026/11/21 20:14:06  [NEW]  export\spreadsheetml
+2026/11/21 20:14:06  [NEW]  export\spreadsheetml
+2026/11/21 20:14:06  []  export\spreadsheetml
+2026/11/21 20:14:06  []  export\spreadsheetml
+2026/11/21 20:14:06  [NEW]  spreadsheetml\ooo2spreadsheetml.xsl
+2026/11/21 20:14:06  [NEW]  spreadsheetml\ooo2spreadsheetml.xsl
+2026/11/21 20:14:06  [NEW]  spreadsheetml\ooo2spreadsheetml.xsl
+2026/11/21 20:14:06  [NEW]  spreadsheetml\ooo2spreadsheetml.xsl
+2026/11/21 20:14:06  [NEW]  uof\odf2uof_spreadsheet.xsl
+2026/11/21 20:14:06  [NEW]  uof\odf2uof_spreadsheet.xsl
+2026/11/21 20:14:06  [NEW]  uof\odf2uof_spreadsheet.xsl
+2026/11/21 20:14:06  [NEW]  uof\odf2uof_spreadsheet.xsl
+2026/11/21 20:14:06  [NEW]  import\spreadsheetml
+2026/11/21 20:14:06  [NEW]  import\spreadsheetml
+2026/11/21 20:14:06  []  import\spreadsheetml
+2026/11/21 20:14:06  []  import\spreadsheetml
+2026/11/21 20:14:06  [NEW]  spreadsheetml\spreadsheetml2ooo.xsl
+2026/11/21 20:14:06  [NEW]  spreadsheetml\spreadsheetml2ooo.xsl
+2026/11/21 20:14:06  [NEW]  spreadsheetml\spreadsheetml2ooo.xsl
+2026/11/21 20:14:06  [NEW]  spreadsheetml\spreadsheetml2ooo.xsl
+2026/11/21 20:14:06  [NEW]  uof\uof2odf_spreadsheet.xsl
+2026/11/21 20:14:06  [NEW]  uof\uof2odf_spreadsheet.xsl
+2026/11/21 20:14:06  [NEW]  uof\uof2odf_spreadsheet.xsl
+2026/11/21 20:14:06  [NEW]  uof\uof2odf_spreadsheet.xsl
